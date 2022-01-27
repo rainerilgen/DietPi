@@ -18,7 +18,7 @@
 
 	#Core globals
 	G_PROGRAM_NAME='DietPi-PREP'
-	G_GITOWNER=${GITOWNER:-MichaIng}
+	G_GITOWNER=${GITOWNER:-rainerilgen}
 	unset GITOWNER
 
 	#------------------------------------------------------------------------------------------------
